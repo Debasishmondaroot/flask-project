@@ -1,0 +1,5 @@
+login page
+accept user nane and&password
+session store
+redirect welocome page
+logout
